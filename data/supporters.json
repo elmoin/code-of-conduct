@@ -752,6 +752,12 @@
           "email": "treibisch@gmail.com",
           "link": "",
           "twitter": "reibisch"
+        },
+        {
+          "name": "Jens Krause",
+          "email": "email@jkrause.io",
+          "link": "http://jkrause.io",
+          "twitter": "sectore"
         }
       ]
     }

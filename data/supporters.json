@@ -739,6 +739,21 @@
           "twitter": "hamoid"
         }
       ]
+    },
+    {
+      "name": "Elmoin - Elm Meetups in north germany",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://github.com/elmoin/elmoin-meetups",
+      "twitter": "@elmoinmoin",
+      "contacts": [
+        {
+          "name": "Tomke Reibisch",
+          "email": "treibisch@gmail.com",
+          "link": "",
+          "twitter": "reibisch"
+        }
+      ]
     }
   ]
 }
